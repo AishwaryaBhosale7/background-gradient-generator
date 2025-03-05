@@ -18,6 +18,10 @@ This is a simple JavaScript-based background gradient generator. Click on the bu
 3. Click on the code box to copy the CSS gradient code.
 
 
+## 🌍 Live Demo 
+https://aishwaryabhosale7.github.io/background-gradient-generator/
+
+
 ## 📜 License
 This project is **open-source** and free to use.
 
