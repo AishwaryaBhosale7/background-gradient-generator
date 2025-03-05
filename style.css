@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:linear-gradient(to right, #fec98d,#c22cf6)
+}
+#container{
+    display: grid;
+    place-items: center;
+    margin-top: 150px;
+    
+}
+#upperdiv{
+    display: flex;
+}
+.btn{
+    border-radius: 50px;
+    border:0;  
+    padding:15px;
+    width:120px;
+    font-size: 18px;
+}
+#left-btn{
+    background-color: blueviolet;
+}
+#right-btn{
+    background-color: green;
+}
+p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+}
+#input{
+    border: 2px solid transparent;
+    border-left: 2px solid red;
+   background-color: bisque;
+   border-radius: 5px;
+   padding: 20px;
+   width: 460px;
+   
+}
